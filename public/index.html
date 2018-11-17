@@ -1,0 +1,32 @@
+<html>  
+    <head>
+      <title> Real Time Chat </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <input type="text" id="user_id" placeholder="myID"><input id="user_to" type="text" placeholder="hisID"><br/>
+        <input id="username" type="text" placeholder="my name"><input type="button" id="saveID" value="SaveID">
+        <h1> Chat! </h1>
+        <form>
+            
+            <input id="message" type="text" placeholder="message">
+            <input type="file" id="imagefile" name="files" style="width:80px">
+            <input type="hidden" id="imgPreview">
+            <input type="hidden" id="imgName">
+            <input type="hidden" id="imgBuffer">
+            <input id="send" type="button" value="Send">
+        </form>
+       
+
+        <ul id="typing"></ul>
+        <p id="imgLoading"></p>
+        <ul id="thread"></ul>
+
+        <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+        <script src="/socket.io/socket.io.js"></script>
+
+        <script src="client.js"></script>  
+        <script src="uploader.js"></script>  
+    </body>
+ </html>  

@@ -1,0 +1,18 @@
+{
+  "name": "realtime-chat",
+  "version": "1.0.0",
+  "description": "test chat nodejs & socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "socket.io": "^2.1.1",
+    "socket.io-stream": "^0.9.1",
+    "socketio-file-upload": "^0.6.4"
+  }
+}
