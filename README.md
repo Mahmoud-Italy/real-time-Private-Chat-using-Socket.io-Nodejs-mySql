@@ -14,7 +14,7 @@ check out with: npm -v  & node -v
 7. node server.js 
 8. http://localhost:4320 
 
-That it Have Fun :)
+That it Have Fun :) 
  
 If you want run node.js at background of server and never stop use "pm2" package  
  
