@@ -11,7 +11,7 @@ check out with: npm -v  & node -v
 4. npm install       
 5. npm install socket.io  
 6. npm install socket.io mysql  ( in case u want save it in mysql DB * if u want use mongoDB or NoSQL use another package )    
-7. node server.js 
+7. node server.js  
 8. http://localhost:4320  
  
 That it Have Fun :) 
