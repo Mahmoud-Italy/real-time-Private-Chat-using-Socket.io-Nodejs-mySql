@@ -5,7 +5,7 @@ Demo : https://www.useloom.com/share/bf73f5e40c3048bdbb2aca01c10eac92
 *make sure ur installed npm & node 
 check out with: npm -v  & node -v  
  
-1. mkdir socket.io & cd socket.io
+1. mkdir socket.io & cd socket.io 
 2. git clone https://github.com/Mahmoud-Italy/real-time-Private-Chat-using-Socket.io-Nodejs-mySql.git
 3. npm init   
 4. npm install      
