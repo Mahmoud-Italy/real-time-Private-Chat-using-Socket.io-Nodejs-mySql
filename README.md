@@ -2,7 +2,7 @@
        
 Demo : https://www.useloom.com/share/bf73f5e40c3048bdbb2aca01c10eac92 
     
-*make sure ur installed npm & node  
+*make sure ur installed npm & node   
 check out with: npm -v  & node -v   
      
 1. mkdir socket.io & cd socket.io 
