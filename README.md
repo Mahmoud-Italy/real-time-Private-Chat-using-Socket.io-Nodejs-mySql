@@ -16,5 +16,4 @@ check out with: npm -v  & node -v
   
 That it Have Fun :) 
  
-If you want run node.js in background of the server use "pm2" package   
- 
+If you want run node.js in background of the server use "pm2" package
